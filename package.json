@@ -1,0 +1,22 @@
+{
+  "name": "caad-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caad-button.js",
+  "module": "caad-button.js",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "caad",
+    "button"
+  ],
+  "author": "carlo adamos",
+  "license": "ISC"
+}
